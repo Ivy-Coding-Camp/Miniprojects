@@ -1,3 +1,4 @@
+//Shows algorithims, control, and API
 function has(string) {
     var args = Array.prototype.slice.call(arguments, 0);
     for (var i = args.length - 1; i >= 1; i--) {

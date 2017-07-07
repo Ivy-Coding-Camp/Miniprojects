@@ -1,3 +1,4 @@
+#Shows basic algorithim, control and loops, and I/O
 '''
 The point of this program is to have the user input a number, and compare that to a number that the computer has already generated. 
 If the number differs from the computer selected number, tell them how it differs.
