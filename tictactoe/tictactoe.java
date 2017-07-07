@@ -1,4 +1,4 @@
-
+// instance vars, user input, conditional statements, do/while
 import java.util.Scanner;
 
 public class tictactoe {
